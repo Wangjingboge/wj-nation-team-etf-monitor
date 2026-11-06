@@ -20,3 +20,8 @@ Thumbs.db
 # 本地配置
 .env
 config.local.*
+
+# 运行时产物（自动备份 / 审计流水）
+data/backup/
+**/backup/
+*.log
