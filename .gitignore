@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 生成产物
+output/
+out/
+*.png
+*.jpg
+
+# 发行数据缓存
+.cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# 本地配置
+.env
+config.local.*
